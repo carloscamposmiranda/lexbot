@@ -32,8 +32,8 @@ Ele automatiza o processo de leitura de PDFs escaneados, identificando e extrain
 C:\
  └── import\
       ├── clientes\
-      │     ├── MARCEL SANTILLI\
-      │     │     └── CCB - MARCEL SANTILLI.pdf
+      │     ├── CARLOS ALEXANDRE\
+      │     │     └── CCB - CARLOS ALEXANDRE.pdf
       │     └── OUTRO CLIENTE\
       │           └── CCB - EXEMPLO.pdf
       └── dados_extraidos.xlsx
@@ -64,6 +64,6 @@ python lexbot.py
 
 ## 🛠️ Desenvolvido por
 
-Carlos Alexandre • [github.com/seu-usuario](https://github.com/seu-usuario)
+Carlos Alexandre • [github.com/carloscamposmiranda](https://github.com/seu-usuario)
 
 Este projeto é de uso **livre e educativo**, especialmente útil para escritórios jurídicos que desejam automatizar o preenchimento de planilhas a partir de documentos digitalizados.

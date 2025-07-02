@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/LexBot.iml" filepath="$PROJECT_DIR$/.idea/LexBot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/lexbot.iml" filepath="$PROJECT_DIR$/.idea/lexbot.iml" />
     </modules>
   </component>
 </project>
